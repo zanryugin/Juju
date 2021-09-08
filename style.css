@@ -1,3 +1,5 @@
+
+
 body {
 	margin: 0;
 	padding: 0;
@@ -57,7 +59,7 @@ a:hover {
 
 #header-wrapper {
 	overflow: hidden;
-	height: 00px;
+	height: 600px;
 }
 
 #header {
@@ -83,7 +85,7 @@ a:hover {
 
 #logo {
 	overflow: hidden;
-	height: 20px;
+	height: 250px;
 }
 
 #logo h1, #logo p {
@@ -92,7 +94,7 @@ a:hover {
 
 #logo h1 {
 	padding: 0px 0px 0px 0px;
-	
+	letter-spacing: -6px;
 	text-transform: lowercase;
 	font-size: 100px;
 }
